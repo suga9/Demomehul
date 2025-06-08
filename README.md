@@ -1,1 +1,1 @@
-#Lab - 2 Githib Actions
+## Lab - 2 Githib Actions
